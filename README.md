@@ -57,6 +57,6 @@ Deploy the compiled bytecode to an Ethereum address.
 Interact with the deployed contract using tools like Remix.
 
 **Contact**
-For questions or support, contact the project maintainer at muthimar@amitsah.com.
+For questions or support, contact the project maintainer at amitsah4898@gmail.com
 
 **Author** :Amit Kumar Sah
